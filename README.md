@@ -5,11 +5,11 @@ Pig Isolate and MAG Collection
 ## Description
 
 *In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies*
-  - 1,780 MAGs from all-in-one assembly of 295 pig gut metagenomic samples
-  - 37 isolated bacteria, single assembled genomes
-  - representing 615 species (hqMAGs-dereplicated_genomes, comp>90%, con<5%)
+  - 1,780 MAGs from all-in-one assembly of 295 pig gut metagenomic samples (Xiao, 2016)
+  - 37 isolated bacteria species (single assembled genomes)
+  - representing in total 615 species (hqMAGs-dereplicated_genomes, comp>90%, con<5%)
 
-See our paper for details:
+See [www.dsmz.de/pibac](https://www.dsmz.de/pibac) and our paper for details:
 
 **In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies**  
 David Wylensek and Thomas C. A. Hitch et. al
