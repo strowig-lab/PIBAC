@@ -1,2 +1,55 @@
 # PIBAC
 Pig Isolate and MAG Collection 
+
+
+## Description
+
+*In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies*
+  - 1,780 MAGs from all-in-one assembly of 295 pig gut metagenomic samples
+  - 37 isolated bacteria, single assembled genomes
+  - representing 615 species (hqMAGs-dereplicated_genomes, comp>90%, con<5%)
+
+See our paper for details:
+
+**In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies**  
+David Wylensek and Thomas C. A. Hitch et. al
+
+### External studies providing data:
+
+Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Nature microbiology 1.12 (2016): 16161. https://doi.org/10.1038/nmicrobiol.2016.161
+
+
+## Data:
+
+### Metagenome-assembled genomes (MAGs) :
+
+| Description | Size | Link |
+|--|--|--|
+| representave hqMAGs (n=615) | ## GB | [PIBAC-hqMAGs-dereplicated_genomes.tar.gz](https://onedrive.live.com/) | 
+| all mMAGs (n=1,780) | ## GB | [iPIBAC-mMAGs.tar.gz](https://onedrive.live.com/) | 
+| Annotations by CheckM, dRep-Clustering, GTDB-Tk | 2 MB | [MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz]() |
+
+### metagenomic libraries (Raw Data Fastq):
+
+Accession codes of the used gut metagenome sequences:
+European Nucleotide Archive: [PRJEB11755](http://www.ebi.ac.uk/ena/data/view/PRJEB11755)
+
+## Pipelines:
+
+![pipeline](/images/pipeline.png)
+
+We recommend the use of [Bioconda](http://bioconda.github.io/)
+
+### Use of the gene catalog (mapping pipeline using the catalog or MAGs)
+
+[Assembly and Binning Pipeline](/assembly-binning-pipeline.md)
+
+[Dereplication and annotation pipeline ](/dRep-pipeline.md)
+
+
+### Workflows to create by sample MAGs (single wise)
+
+[Code for the generation and clustering of single-wise assembly MAGs](/sMAG-pipeline.md)
+
+[Code for the evaluation of single-wise assembly MAGs versus all-in-one assembly MAGs](/evaluation/README.md)
+
