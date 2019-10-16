@@ -1,12 +1,12 @@
-# PIBAC
-Pig Isolate and MAG Collection 
+# Pig Isolate and MAG Collection 
 
+![logo](/images/pibac_logo.png)
 
 ## Description
 
 *In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies*
   - 1,780 MAGs from all-in-one assembly of 295 pig gut metagenomic samples (Xiao, 2016)
-  - 37 isolated bacteria species (single assembled genomes)
+  - 38 isolated bacteria species (single assembled genomes)
   - representing in total 615 species (hqMAGs-dereplicated_genomes, comp>90%, con<5%)
 
 See [www.dsmz.de/pibac](https://www.dsmz.de/pibac) and our paper for details:
