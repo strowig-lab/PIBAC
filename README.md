@@ -14,6 +14,8 @@ See [www.dsmz.de/pibac](https://www.dsmz.de/pibac) and our paper for details:
 **In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies**  
 David Wylensek and Thomas C. A. Hitch et al. , corresponding author: Thomas Clavel
 
+Note: This site is under construction.
+
 ### External studies providing data:
 
 Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Nature microbiology 1.12 (2016): 16161. https://doi.org/10.1038/nmicrobiol.2016.161
@@ -34,9 +36,13 @@ Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Natu
 Accession codes of the used gut metagenome sequences:
 European Nucleotide Archive: [PRJEB11755](http://www.ebi.ac.uk/ena/data/view/PRJEB11755)
 
-## Pipelines:
+## Phylogenetic Tree:
 
-![pipeline](/images/pipeline.png)
+Tree was constucted from GTDB-Tk maker genes, including GTDB-Tk taxonomy information and ANI scores to the GTDB reference genomes.
+
+![tree](/images/pibac_tree_mag_isolates_v2.png)
+
+## Pipelines:
 
 We recommend the use of [Bioconda](http://bioconda.github.io/)
 
