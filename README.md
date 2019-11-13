@@ -27,7 +27,7 @@ Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Natu
 |--|--|--|
 | representave hqMAGs (n=617) | 400 MB | [PIBAC-hqMAGs-dereplicated_genomes.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138671&authkey=AO-S48yf1OvVk8U) | 
 | all mMAGs (n=1,780) | 1 GB | [PIBAC-mMAGs.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138674&authkey=APp2rvi3v3pLnts) | 
-| Annotations by CheckM, dRep-Clustering, GTDB-Tk | >1 MB | [MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138673&authkey=AC-8-4mBr0U5zjg) |
+| Annotations by CheckM, dRep-Clustering, GTDB-Tk | 1 MB | [MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138673&authkey=AC-8-4mBr0U5zjg) |
 
 ### metagenomic libraries (Raw Data Fastq):
 
