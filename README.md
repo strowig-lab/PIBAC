@@ -7,7 +7,7 @@
 *In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies*
   - 1,780 MAGs from all-in-one assembly of 295 pig gut metagenomic samples (Xiao, 2016)
   - 38 isolates representing novel species (single draft genomes)
-  - representing in total 615 species (hqMAGs-dereplicated_genomes, comp>90%, con<5%)
+  - representing in total 617 species (hqMAGs-dereplicated_genomes, comp>90%, con<5%)
 
 See [www.dsmz.de/pibac](https://www.dsmz.de/pibac) and our paper for details:
 
@@ -25,9 +25,9 @@ Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Natu
 
 | Description | Size | Link |
 |--|--|--|
-| representave hqMAGs (n=615) | ## GB | [PIBAC-hqMAGs-dereplicated_genomes.tar.gz](https://onedrive.live.com/) | 
-| all mMAGs (n=1,780) | ## GB | [PIBAC-mMAGs.tar.gz](https://onedrive.live.com/) | 
-| Annotations by CheckM, dRep-Clustering, GTDB-Tk | 2 MB | [MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz]() |
+| representave hqMAGs (n=617) | 400 MB | [PIBAC-hqMAGs-dereplicated_genomes.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138671&authkey=AO-S48yf1OvVk8U) | 
+| all mMAGs (n=1,780) | 1 GB | [PIBAC-mMAGs.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138674&authkey=APp2rvi3v3pLnts) | 
+| Annotations by CheckM, dRep-Clustering, GTDB-Tk | >1 MB | [MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138673&authkey=AC-8-4mBr0U5zjg) |
 
 ### metagenomic libraries (Raw Data Fastq):
 
