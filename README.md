@@ -1,4 +1,4 @@
-#  Pig intestinal bacterial collection 
+#  Extensive cultivation of the pig gut microbiome identifies novel bacterial diversity and functions and enables tailored functional studies
 
 ![logo](/images/pibac_logo.png)
 
@@ -27,7 +27,7 @@ Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Natu
 
 | Description | Size | Link |
 |--|--|--|
-| representave hqMAGs (n=617) | 400 MB | [PIBAC-hqMAGs-dereplicated_genomes.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138671&authkey=AO-S48yf1OvVk8U) | 
+| representative hqMAGs (n=617) | 400 MB | [PIBAC-hqMAGs-dereplicated_genomes.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138671&authkey=AO-S48yf1OvVk8U) | 
 | all mMAGs (n=1,780) | 1 GB | [PIBAC-mMAGs.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138674&authkey=APp2rvi3v3pLnts) | 
 | Annotations by CheckM, dRep-Clustering, GTDB-Tk | 1 MB | [MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138673&authkey=AC-8-4mBr0U5zjg) |
 
@@ -40,7 +40,7 @@ European Nucleotide Archive: [PRJEB11755](http://www.ebi.ac.uk/ena/data/view/PRJ
 
 Tree was constucted from GTDB-Tk maker genes, including GTDB-Tk taxonomy information and ANI scores to the GTDB reference genomes.
 
-![tree](/images/pibac_tree_mag_isolates_v2.png)
+![tree](/images/Fig-4_GitHub.png)
 
 ## Pipelines:
 
