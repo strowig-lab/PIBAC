@@ -1,4 +1,5 @@
-#  Extensive cultivation of the pig gut microbiome identifies novel bacterial diversity and functions and enables tailored functional studies
+#  In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies
+
 
 ![logo](/images/pibac_logo.png)
 
@@ -13,6 +14,7 @@ See [www.dsmz.de/pibac](https://www.dsmz.de/pibac) and our paper for details:
 
 **In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies**  
 David Wylensek and Thomas C. A. Hitch et al. , corresponding author: Thomas Clavel
+
 
 
 ### External studies providing data:
