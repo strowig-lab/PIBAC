@@ -52,13 +52,3 @@ We recommend the use of [Bioconda](http://bioconda.github.io/)
 [Assembly and Binning Pipeline](/assembly-binning-pipeline.md)
 
 [Dereplication and annotation pipeline](/dRep-pipeline.md)
-
-[Compair to human and mice MAGs](/dRep-pipeline.md)
-
-
-### Workflows to create by sample MAGs (single wise)
-
-[Code for the generation and clustering of single-wise assembly MAGs](/sMAG-pipeline.md)
-
-[Code for the evaluation of single-wise assembly MAGs versus all-in-one assembly MAGs](/evaluation/README.md)
-
