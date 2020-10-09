@@ -28,9 +28,9 @@ Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Natu
 
 | Description | Size | Link |
 |--|--|--|
-| Representative hqMAGs (n=617) | 400 MB | [PIBAC-hqMAGs-dereplicated_genomes.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138671&authkey=AO-S48yf1OvVk8U) | 
-| All mMAGs (n=1,780) | 1 GB | [PIBAC-mMAGs.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138674&authkey=APp2rvi3v3pLnts) | 
-| Annotations by CheckM, dRep-Clustering, GTDB-Tk | 1 MB | [MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz](https://onedrive.live.com/download?cid=36ADEB4B3D109F6F&resid=36ADEB4B3D109F6F%2138673&authkey=AC-8-4mBr0U5zjg) |
+| Representative hqMAGs (n=617) | 400 MB | [PIBAC-hqMAGs-dereplicated_genomes.tar.gz](https://zenodo.org/api/files/5b035b90-24f2-46dc-9572-21a0b1eca596/PIBAC-hqMAGs-dereplicated_genomes.tar.gz) | 
+| All mMAGs (n=1,780) | 1 GB | [PIBAC-mMAGs.tar.gz](https://zenodo.org/api/files/5b035b90-24f2-46dc-9572-21a0b1eca596/PIBAC-mMAGs.tar.gz) | 
+| Annotations by CheckM, dRep-Clustering, GTDB-Tk | 1 MB | [MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz](https://zenodo.org/api/files/5b035b90-24f2-46dc-9572-21a0b1eca596/MAG-annotation_CheckM_dRep_GTDB-Tk.tar.gz) |
 
 ### metagenomic libraries (Raw Data Fastq):
 
