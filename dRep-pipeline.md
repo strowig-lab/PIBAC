@@ -10,15 +10,10 @@
 [TPM-normalization](#TPM-normalization)  
 [Basic-statistics](#Basic-statistics)  
 
-# Description
-
-![iMGMC-pipeline](/images/pipeline.png)
-
 # Requirements
 * [BBmap](https://sourceforge.net/projects/bbmap/)
 * [samtools](http://samtools.sourceforge.net/)
 * [sambamba](http://lomereiter.github.io/sambamba/)
-* iMGMC repository
 
 
 # Data-pre-processing
@@ -55,10 +50,10 @@ You can use bbmap and the reference pig genome from and assign  the ${PIGgenome}
 	wget -O PIBAC-mMAGs.tar.gz "https://onedrive.live.com/"
 	
 
-**2. Index iMGMC catalog**
+**2. Index PIBAC catalog**
 
-	tar -xzf iMGMC-hqMAGs-dereplicated_genomes.tar.gz
-    bbsplit.sh ref=iMGMC-hqMAGs-dereplicated_genomes
+	tar -xzf PIBAC-hqMAGs-dereplicated_genomes.tar.gz
+    bbsplit.sh ref=PIBAC-hqMAGs-dereplicated_genomes
 
 
 # Mapping
@@ -74,16 +69,3 @@ For this tutorial we use bbmap for mapping the reads to MAG collection. You can 
     sortscafs=f nzo=f \
     in=${SampleName}_R1_rmhost.fastq.gz \
     in2=${SampleName}_R2_rmhost.fastq.gz
-
-
-# TPM-normalization
-You need to normalize you samples counts for a comparison. Here we use TPM-normalization to create TPM-${SampleID}.txt form ${SampleName}.covstat :
-
-    makeTPMfromCovStats.sh ${SampleName}.covstat
-
-
-# Basic-statistics
-
-under construction
-
-

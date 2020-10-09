@@ -7,11 +7,6 @@
 [Assembly](#Assembly)  
 [Binning](#Binning)  
 
-
-# Description
-
-![iMGMC-creation-pipeline](/images/iMGMC-creation-pipeline.png)
-
 # Requirements
 * [BBmap](https://sourceforge.net/projects/bbmap/)
 * [Megahit](https://github.com/voutcn/megahit/releases)
