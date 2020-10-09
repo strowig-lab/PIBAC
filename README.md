@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/195467054.svg)](https://zenodo.org/badge/latestdoi/195467054)
+
 #  In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies
 
 
