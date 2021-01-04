@@ -14,15 +14,13 @@
 
 See [www.dsmz.de/pibac](https://www.dsmz.de/pibac) and our paper for details:
 
-**In-depth cultivation of the pig gut microbiome towards novel bacterial diversity and tailored functional studies**  
-David Wylensek and Thomas C. A. Hitch et al. , corresponding author: Thomas Clavel
+**A collection of bacterial isolates from the pig intestine reveals functional and taxonomic diversity.**  
+David Wylensek, Thomas C. A. Hitch, Thomas Riedel, Afrizal Afrizal, Neeraj Kumar, Esther Wortmann, Tianzhe Liu, Saravanan Devendran, Till R. Lesker, Sara B. Hernández, Viktoria Heine, Eva M. Buhl, Paul M. D’Agostino, Fabio Cumbo, Thomas Fischöder, Marzena Wyschkon, Torey Looft, Valeria R. Parreira, Birte Abt, Heidi L. Doden, Lindsey Ly, João M. P. Alves, Markus Reichlin, Krzysztof Flisikowski, Laura Navarro Suarez, Anthony P. Neumann, Garret Suen, Tomas de Wouters, Sascha Rohn, Ilias Lagkouvardos, Emma Allen-Vercoe, Cathrin Spröer, Boyke Bunk, Anja J. Taverne-Thiele, Marcel Giesbers, Jerry M. Wells, Klaus Neuhaus, Angelika Schnieke, Felipe Cava, Nicola Segata, Lothar Elling, Till Strowig, Jason M. Ridlon, Tobias A. M. Gulder, Jörg Overmann & Thomas Clavel  
+Nature Communications volume 11, Article number: 6389 (2020) 
+[https://doi.org/10.1038/s41467-020-19929-w](https://doi.org/10.1038/s41467-020-19929-w)
 
-
-
-### External studies providing data:
-
-Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Nature microbiology 1.12 (2016): 16161. https://doi.org/10.1038/nmicrobiol.2016.161
-
+### External studies providing data:  
+Xiao, Liang, et al. "A reference gene catalogue of the pig gut microbiome." Nature Microbiology 1.12 (2016): 16161. https://doi.org/10.1038/nmicrobiol.2016.161
 
 ## Data:
 
